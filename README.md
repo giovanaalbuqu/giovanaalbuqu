@@ -5,10 +5,11 @@
  
  </h1>
 
-<p align="center">
-  ![code](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif) Estudante de Administração e Análise e Desenvolvimento de Sistemas<br>
-  ![code](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif) Em transição para a área de Tecnologia e Dados<br>
-</p>
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px" /> Estudante de Administração e Análise e Desenvolvimento de Sistemas<br>
+   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px" /> Em transição para a área de Tecnologia e Dados<br>
+ </p>
+
 
 
 ## 🛠️ Habilidades
