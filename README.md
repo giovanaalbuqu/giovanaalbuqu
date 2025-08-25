@@ -11,15 +11,13 @@
  </p>
 
 
-
 ## 👩🏻‍💻 Estudos  
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![SQL (Básico)](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![Cloud (Iniciante)](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=cloud&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Cloud (Iniciante)](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=cloud&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL (Básico)](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
 ---
 
