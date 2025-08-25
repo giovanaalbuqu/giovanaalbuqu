@@ -1,16 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=D32F2F&section=header)
- 
- <h1 align="center">
+
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Olá!+;+Eu+sou+Giovana+Albuquerque;&color=D32F2F"/>
- 
- </h1>
+</h1>
 
- <p align="center">
-  Estudante de Administração e Análise e Desenvolvimento de Sistemas
-  
+<p align="center">
+  Bacharelado em Administração e Tecnóloga em Análise e Desenvolvimento de Sistemas<br/>
   Em transição para a área de Tecnologia e Dados
- </p>
+</p>
 
+---
 
 ## 👩🏻‍💻 Estudos  
 
@@ -18,7 +17,51 @@
 ![Cloud (Iniciante)](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=cloud&logoColor=white)
 ![SQL (Básico)](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Bi](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=giovanaalbuqu&theme=dark&hide_border=false&include_all_commits=true&show_icons=true"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanaalbuqu&theme=dark&hide_border=false&layout=compact"
+        alt="Top Langs"
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=giovanaalbuqu&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+## 📍 Profile Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/giovanaalbuqu/count.svg" alt="Contador de visitantes no perfil" />
+</p>
+
+---
 
 ## 💻 Contato
 
