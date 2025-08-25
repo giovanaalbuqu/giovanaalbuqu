@@ -7,6 +7,7 @@
 
  <p align="center">
   Estudante de Administração e Análise e Desenvolvimento de Sistemas
+  
   Em transição para a área de Tecnologia e Dados
  </p>
 
