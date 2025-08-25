@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=D32F2F&section=header)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Olá!+;+Eu+sou+Giovana+Albuquerque;&color=D32F2F"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Olá!+;+Eu+sou+Giovana+Albuquerque;&color=D32F2F&background=1e1e1e"/>
 </h1>
 
 <p align="center">
@@ -41,25 +41,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=giovanaalbuqu&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-## 📍 Profile Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/giovanaalbuqu/count.svg" alt="Contador de visitantes no perfil" />
-</p>
 
 ---
 
