@@ -6,7 +6,7 @@
 
 <p align="center">
 Bacharelado em Administração e Tecnóloga em Análise e Desenvolvimento de Sistemas<br/>
-Formação complementar em Computação em Nuvem e Análise de Dados & IA<br/> 
+Em formação complementar em Computação em Nuvem e Análise de Dados & IA<br/> 
 Em transição para a área de Tecnologia e Dados.
 </p>
 
