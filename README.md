@@ -1,14 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=D32F2F&section=header)
-
-<h1 align="center">
-  Olá!<br>
-  Eu sou Giovana Albuquerque
-</h1>
+ 
+ <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Olá!+;+Eu+sou+Giovana+Albuquerque;&color=D32F2F"/>
+ 
+ </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px" /> Estudante de Administração e Análise e Desenvolvimento de Sistemas<br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px" /> Em transição para a área de Tecnologia e Dados<br>
+  ![code](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif) Estudante de Administração e Análise e Desenvolvimento de Sistemas<br>
+  ![code](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif) Em transição para a área de Tecnologia e Dados<br>
 </p>
+
 
 ## 🛠️ Habilidades
 
