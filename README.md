@@ -12,13 +12,15 @@
 
 ---
 
-## 👩🏻‍💻 Estudos  
+## 👩🏻‍💻 Meus Estudos  
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Cloud (Iniciante)](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=cloud&logoColor=white)
+![Cloud (Iniciante)](https://img.shields.io/badge/Cloud%20(Iniciante)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![SQL (Básico)](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 ---
 
