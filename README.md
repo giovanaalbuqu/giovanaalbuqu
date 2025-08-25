@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=4B0082&section=header)
 
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Olá!;Bem-vindo(a)+ao+meu+GitHub;Eu+sou+Giovana+Albuquerque;:)&color=4B0082"/>
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Olá!;Bem-vindo(a)+ao+meu+GitHub;Me+Chamo+Giovana;:)&color=4B0082"/>
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## 👩🏻‍💻 Meus Estudos  
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Cloud ](https://img.shields.io/badge/Cloud%20(Iniciante)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud ](https://img.shields.io/badge/Cloud%20(Computing)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![SQL (Básico)](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
