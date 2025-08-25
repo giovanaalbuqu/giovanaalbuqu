@@ -25,7 +25,7 @@
 ## 💻 Contato
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/giovana-albuquerque-gomes-67324535a" target="_blank">
+  <a href="[https://www.linkedin.com/in/giovana-albuquerque-gomes-67324535a](https://www.linkedin.com/in/giovana-a-67324535a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:giovanaalbuqu@gmail.com">
