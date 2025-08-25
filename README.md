@@ -1,4 +1,4 @@
-CINZA ESCURO ![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=D32F2F&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=D32F2F&section=header)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Olá!+;+Eu+sou+Giovana+Albuquerque;&color=D32F2F"/>
