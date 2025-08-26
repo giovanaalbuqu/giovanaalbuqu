@@ -7,7 +7,7 @@
 <p align="center">
 Administração e Análise e Desenvolvimento de Sistemas<br/>
 <br/> 
-Computação em Nuvem e Dados.
+Dados e Computação em Nuvem.
 </p>
 
 ---
