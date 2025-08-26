@@ -6,12 +6,12 @@
 
 <p align="center">
 Administração e Análise e Desenvolvimento de Sistemas<br/>
-Dados e Computação em Nuvem.
+Dados & Computação em Nuvem.
 </p>
 
 ---
 
-## 👩🏻‍💻 Meus Estudos  
+## 👩🏻‍💻 Estudos  
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Cloud ](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
