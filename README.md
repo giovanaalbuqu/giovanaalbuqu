@@ -5,9 +5,9 @@
 </h1>
 
 <p align="center">
-Administração e Tecnóloga em Análise e Desenvolvimento de Sistemas<br/>
+Administração e Análise e Desenvolvimento de Sistemas<br/>
 <br/> 
-Em transição para a área de Tecnologia e Dados.
+Computação em Nuvem e Dados.
 </p>
 
 ---
