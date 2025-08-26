@@ -6,7 +6,6 @@
 
 <p align="center">
 Administração e Análise e Desenvolvimento de Sistemas<br/>
-<br/> 
 Dados e Computação em Nuvem.
 </p>
 
