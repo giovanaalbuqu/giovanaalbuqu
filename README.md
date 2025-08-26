@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-Administração e Análise e Desenvolvimento de Sistemas<br/>
+Administração & Análise e Desenvolvimento de Sistemas<br/>
 Dados & Computação em Nuvem.
 </p>
 
