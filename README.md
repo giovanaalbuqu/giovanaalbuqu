@@ -15,7 +15,7 @@ Administração & Análise e Desenvolvimento de Sistemas<br/>
 ![C Language](https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=c&logoColor=white)
 ---
 
-## 💻 Contato
+## 💻 Rede
 
 <div align="center">
   <a href="https://www.linkedin.com/in/giovana-a-67324535a" target="_blank">
