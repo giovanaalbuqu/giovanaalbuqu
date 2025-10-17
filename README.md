@@ -4,7 +4,7 @@
 
 <p align="center">
 Administração & Análise e Desenvolvimento de Sistemas<br/>
-Dados & Computação em Nuvem.
+
 </p>
 
 ---
