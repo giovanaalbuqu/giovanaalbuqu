@@ -10,8 +10,9 @@ Administração & Análise e Desenvolvimento de Sistemas<br/>
 ---
 
 ## 👩🏻‍💻 Estudos  
-
+![UX/UI Design](https://img.shields.io/badge/UX%2FUI%20Design-0A66C2?style=for-the-badge&logo=figma&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Software Requirements Analysis](https://img.shields.io/badge/Software%20Requirements%20Analysis-6A1B9A?style=for-the-badge&logo=readthedocs&logoColor=white)
 ![CLOUD ](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
