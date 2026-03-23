@@ -11,8 +11,9 @@ Administração & Análise e Desenvolvimento de Sistemas<br/>
 
 ## 👩🏻‍💻 Estudos  
 
-![Cloud ](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![C Language](https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![CLOUD ](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 ---
 
 ## 💻 Rede
