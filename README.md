@@ -7,4 +7,4 @@
 ![Software Requirements Analysis](https://img.shields.io/badge/Software%20Requirements%20Analysis-000000?style=for-the-badge&logo=readthedocs&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![UX/UI Design](https://img.shields.io/badge/UX%2FUI%20Design-000000?style=for-the-badge&logo=figma&logoColor=white)
-
+![Macros](https://img.shields.io/badge/Macros-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white)
